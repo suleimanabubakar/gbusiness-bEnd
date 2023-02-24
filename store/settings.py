@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     'company',
     'panel',
     'myauth',
+    'drf_yasg',
+
 ]
 
 MIDDLEWARE = [
